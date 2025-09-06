@@ -1,0 +1,1 @@
+Contains all the graphical analysis done in this project. The individual codes can be seen by running notebook "code_main" in google colab. I've made headings and sections in it so that it's easy for users to navigate,
