@@ -7,7 +7,7 @@ The goal is to analyze performance metrics such as returns, Sharpe ratio, and dr
 
 Features:
 Data collection via Yahoo Finance (yfinance)
-Technical indicators (Moving Averages, RSI, etc.)
+Technical indicators (Moving Average)
 Signal generation (buy/sell rules)
 Backtesting engine
 
